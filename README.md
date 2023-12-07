@@ -1,4 +1,11 @@
 ### Hi there 👋
+<!--
+<p align="left">
+    <a href="https://github.com/kiansierra?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=kiansierra&count_private=true&show_icons=true&hide=issues&theme=radical" alt="github readme stats" height="156"/>
+    </a>
+  </p>
+-->
 
 <!--
 **kiansierra/kiansierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
